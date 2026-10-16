@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7FB8F5"/><stop offset="1" stop-color="#B89CF0"/></linearGradient></defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<ellipse cx="512" cy="941.3" rx="346.5" ry="92.4" fill="#2B2D42" opacity="0.0"/>
+<polygon points="182.0,345.0 512.0,535.4 512.0,914.9 182.0,724.5" fill="#DB766E" stroke="#DB766E" stroke-width="52.8" stroke-linejoin="round"/>
+<polygon points="512.0,535.4 842.0,345.0 842.0,724.5 512.0,914.9" fill="#B7635C" stroke="#B7635C" stroke-width="52.8" stroke-linejoin="round"/>
+<polygon points="512.0,154.6 842.0,345.0 512.0,535.4 182.0,345.0" fill="#FF9F96" stroke="#FF9F96" stroke-width="52.8" stroke-linejoin="round"/>
+
+<path d="M0,-0.80 L0.62,-0.02 L0.27,-0.02 L0.27,0.72 L-0.27,0.72 L-0.27,-0.02 L-0.62,-0.02 Z" transform="matrix(165.00,95.20,-165.00,95.20,512,345)" fill="#2B2D42" stroke="#2B2D42" stroke-width="52.8" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+<path d="M0,-0.80 L0.62,-0.02 L0.27,-0.02 L0.27,0.72 L-0.27,0.72 L-0.27,-0.02 L-0.62,-0.02 Z" transform="matrix(165.00,95.20,-165.00,95.20,512,345)" fill="#fff" stroke="#fff" stroke-width="6.6" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+</svg>
